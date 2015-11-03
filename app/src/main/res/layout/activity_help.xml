@@ -24,6 +24,10 @@
         android:id="@+id/header"
         />
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ched"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"

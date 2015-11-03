@@ -1,3 +1,10 @@
+In cooperation with: 
+De La Salle University's 
+CHED Philippine Higher Education Research Network- 
+(PHERNet) Sustainability Studies Program
+Intelligent Systems Laboratory,
+De La Salle University
+
 This application was developed in partial fullfillment of the requirements in CPEPROG. A HUGE portion of the information found in this application was researched online and the sources will be listed below on this page. This is to preserve the validity of the data since the sole objective of this project is to develop and application to inform users about breast cancers.
 
 This application is intended to integrate what the student has learned in the programming laboratory and lecture into one application that aims to inform its users more about Breast Cancer and why it is a serious issue in our community, especially amongst women.
